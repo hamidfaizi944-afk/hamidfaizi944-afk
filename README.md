@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm M.Hamid Faizi</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
 
+
+<img align= "right" alt="hamidfaizi" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXF1ZHI1djQxcnJmaGpvcjV2Y3BvdGRmZWNnc3p0NTJxZnFmZ2hvayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidfaizi&label=Profile%20views&color=0e75b6&style=flat" alt="hamidfaizi" /> </p>
 
 - 🔭 I’m currently working on **Compete school management Project**
